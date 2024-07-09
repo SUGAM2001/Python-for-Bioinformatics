@@ -14,7 +14,7 @@ print(gb_id)
 gb_des = gb_obj.description
 print(gb_des)
 
-# print gene bank accession name
+# print gene bank name
 gb_name = gb_obj.name
 print(gb_name)
 
@@ -24,7 +24,6 @@ print(len(gb_seq))
 
 # To check the feature type
 gb_feature = gb_obj.features
-
 features = [feature.type for feature in gb_feature]
 features = set(features)
 features = list(features)
