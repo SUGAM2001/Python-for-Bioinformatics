@@ -15,3 +15,5 @@ print(f"DNA sequence: {dna_seq}")
 print(f"RNA sequence: {rna_seq}")
 
 
+
+
