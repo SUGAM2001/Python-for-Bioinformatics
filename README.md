@@ -15,7 +15,7 @@ In the 'Python for bioinformatics' repository, I actively update the code daily 
 
 
 ## Installation
-To use the scripts and notebooks in this repository, you need to have Python installed. We recommend using a virtual environment to manage dependencies.
+To use the scripts and notebooks in this repository, you need to have Python installed. I recommend using a virtual environment to manage dependencies.
 
 Visit the official Python website: [pyton.org](https://www.python.org/)
 
