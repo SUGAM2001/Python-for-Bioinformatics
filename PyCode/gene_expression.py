@@ -27,3 +27,7 @@ print(exp.describe())
 
 # Check for missing values
 print(exp.isna().sum())
+
+
+# Save the DataFrame to a CSV file
+exp_count.to_csv('filtered_gene_expression_counts.csv', index=False)
