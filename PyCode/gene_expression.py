@@ -16,7 +16,7 @@ print(exp.columns)
 # To check the column shape
 print(exp.columns.shape)
 
-# In this file there are multiple columns with the fpkm values, so i only selct the expression column
+# In this file there are multiple columns with the fpkm values, so i only select the expression column
 
 count_columns = ['count.C1', 'count.C2', 'count.C3', 'count.T1', 'count.T2', 'count.T3']
 exp = exp[count_columns]
