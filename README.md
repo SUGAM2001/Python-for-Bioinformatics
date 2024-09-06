@@ -1,7 +1,7 @@
 
 # Python for Bioinformatics
 
-I actively update the code daily in the 'Python for bioinformatics repository to ensure it remains current and effective.
+I update the code daily in the 'Python for bioinformatics repository to ensure it remains current and effective.
 
 # Tutorials 
 
